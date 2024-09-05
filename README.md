@@ -15,35 +15,88 @@
 <p align="center" style="background-color:#1c1f4a;">
   <div style="display: flex; overflow: hidden; white-space: nowrap; width: 100%; background-color: #1c1f4a;">
     <div style="display: flex; animation: scroll 20s linear infinite;">
-      <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Generative AI" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Image_Processing-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Web_Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Development" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="App Development" style="height: 50px; margin-right: 20px;" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" style="height: 50px; margin-right: 20px;" />
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" alt="Mocha" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Generative AI" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Machine Learning" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Deep_Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Image_Processing-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" alt="Image Processing" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Web_Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Web Development" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/App_Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="App Development" />
+      </div>
+      <div class="tech-stack">
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+      </div>
     </div>
   </div>
 </p>
 
 <style>
+  .tech-stack {
+    display: inline-block;
+    margin-right: 10px;
+  }
+
   @keyframes scroll {
-      0% { transform: translateX(100%); }
-      100% { transform: translateX(-100%); }
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+  }
+
+  .tech-stack-container {
+    display: flex;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 100%;
+  }
+
+  .tech-stack-content {
+    display: flex;
+    animation: scroll 30s linear infinite;
   }
 </style>
----
+
 
 - 🔭 **I’m currently working on:**  
   - Machine Learning, Deep Learning, Generative AI

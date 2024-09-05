@@ -1,30 +1,14 @@
 ## Hi there 👋
 
-<!--
-**nandini-queen-of-my-world/nandini-queen-of-my-world** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">
   <a href="https://github.com/nandini-queen-of-my-world">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7726B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nandini+Kuppala;AI+Developer+%7C+Security+Tester;Machine+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7726B&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Nandini+Kuppala" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
   <a href="mailto:knandini7816@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/nandini-kuppala/">LinkedIn</a> 
- 
 </p>
 
 ---
@@ -32,7 +16,7 @@ Here are some ideas to get you started:
 ### 🛠️ **Tech Stack**
 
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="10">
+  <marquee behavior="scroll" direction="left" scrollamount="8">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -57,20 +41,18 @@ Here are some ideas to get you started:
 ---
 
 - 🔭 **I’m currently working on:**  
-  - **Machine Learning, Deep Learning, Gen AI**
+  - Machine Learning, Deep Learning, Generative AI
 
 - 🌱 **I’m currently learning:**  
-  - Gen AI and Deep Learning for healthcare.
+  - Generative AI and Deep Learning for healthcare
   
 - 👯 **I’m looking to collaborate on:**  
-  - Projects related to Gen AI, ML, and Web dev, app dev.
+  - Projects related to Generative AI, ML, and Web or App Development
   
 - 📫 **How to reach me:**  
   - knandini7816@gmail.com
 
 ---
-
-
 
 ### 🤝 **Let's Connect!**
 

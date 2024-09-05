@@ -43,11 +43,8 @@
 - 🔭 **I’m currently working on:**  
   - Machine Learning, Deep Learning, Generative AI
 
-- 🌱 **I’m currently learning:**  
-  - Generative AI and Deep Learning for healthcare
-  
 - 👯 **I’m looking to collaborate on:**  
-  - Projects related to Generative AI, ML, and Web or App Development
+  - Projects related to Generative AI, ML, DL, and Web or App Development
   
 - 📫 **How to reach me:**  
   - knandini7816@gmail.com
